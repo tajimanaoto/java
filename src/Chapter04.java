@@ -8,8 +8,7 @@ public class Chapter04 {
 		str1 = "頑張る";
 		System.out.println(str1);
 		
-		int num1;
-		num1 = 24;
+		int num1 = 24;
 		System.out.println(num1);
 	}
 
